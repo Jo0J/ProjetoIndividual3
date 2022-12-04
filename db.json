@@ -46,7 +46,6 @@
   "Fornecedores":[
   { "id": 1,
       "Fornece": "Refrigerante", 
-       "Marcas":{
       "1°": "Coca Cola",
       "2°": "Guarana",
       "3°": "Peps"
